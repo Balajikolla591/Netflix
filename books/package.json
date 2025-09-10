@@ -1,24 +1,16 @@
 {
-  "name": "netflix",
+  "name": "book-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.6",
-    "@testing-library/react": "^11.1.2",
-    "@testing-library/user-event": "^12.2.2",
-    "axios": "^1.11.0",
-    "eslint": "^7.13.0",
-    "firebase": "^12.2.1",
-    "fuse.js": "^6.4.3",
-    "movie-trailer": "^3.2.2",
-    "normalize.css": "^8.0.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "^5.0.1",
-    "react-youtube": "^7.13.1",
-    "styled-components": "^5.2.1",
-    "web-vitals": "^0.2.4"
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.8.0",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
